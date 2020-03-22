@@ -1,0 +1,21 @@
+{
+    "short_name": "Sabin",
+    "name": "Sabin Koju - Portfolio",
+    "background_color": "#fbfbfb",
+    "theme_color": "#22b573",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "images/sLogo-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "images/sLogo-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "index.html?launcher=true"
+  }
